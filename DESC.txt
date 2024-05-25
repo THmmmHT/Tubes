@@ -1,0 +1,3 @@
+Tugas besar kami menggunakan tema aplikasi perpustakaan fil yang dimana user nya dibagi 2 yaitu user biasa dan admin
+admin bisa memasukan data film dan mengedit data data film yang ada
+user bisa mengeksplorasi data data film yang ada
